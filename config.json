@@ -1,7 +1,13 @@
 {
     "name": "Daniel Mello",
-    "job": "Software Enginear",
+    "job": "Software Engineer",
     "github": "DanielMelloo",
+    "favorites": {
+        "peas": "@peas",
+        "mariosouto": "@omariosouto"
+    },
+
+
     "playlists": {
         "jogos": [{
                 "title": "Frostpunk - Neve e Steak tartare",
